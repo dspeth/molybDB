@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "MolybDB"
 description              : "website for a database of molybdenum and tungsten enzymes important for microbiology"
-url                      : "https://www.micro-explorer.net/molybDB"
+url                      : "https://www.dspeth.github.io/molybDB"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
