@@ -1,6 +1,5 @@
 ---
-title: "Posts by Year"
-permalink: /posts_by_year/
+title: "Protein families"
+permalink: /protein_families/
 layout: posts
-author_profile: true
 ---

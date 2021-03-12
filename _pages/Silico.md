@@ -1,6 +1,7 @@
 ---
-permalink: /silico/
-title: Bioinformatics 
+permalink: /dmsor/
+title: DMSO reductase superfamily 
+author_profile: false
 
 gallery_research:
   - url: /assets/images/bioinfo1_genomics.jpg
