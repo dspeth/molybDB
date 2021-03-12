@@ -1,0 +1,10 @@
+some thoughts on a JGI data sharing debacle
+
+this week, two science friends of mine (one a former colleague in the Orphan lab) lit up environmental microbiology twitter with the announcement that a paper in science advances (link) had used sequence data the joint genome institute (JGI) had generated from their samples, without giving credit, or even acknowledging their contribution. This is bad enough as it is, but it gets worse. The data was still under JGI embargo, giving the PIs who provided the samples first right of publication according to JGI policy (link).
+
+So what happened here? How is it possible that the authors of this new study could use the data without permission? It turns out that JGI (since 2018) shares the data with the NCBI SRA (and in turn with the other INDSC databases) while it is still under embargo. While there is a link to the JGI site on the SRA page, it isn't directly obvious who sampled the environment, or whether the data can be used freely.
+
+This practice of pre publication data sharing is awesome for open science, as it often takes a while to get from data to publication, and this way data can be used in comparative analyses earlier and easier. The main downside is that it puts the responsibility on the scientific community (authors, editors, and reviewers) to make sure the people with ownership of the sample do indeed get the right of first publication. This can be tricky, as the peer-review stage seems like it is way to late to find out you shouldn't have done a study in the first place.
+
+While both scientists got a lot of support on twitter, and everyone agreed that credit needed to be given, the messages did show an interesting dichotomy. Some people clearly stated primary owners of the samples should always be contacted prior to use of the data, whereas others thought data available on NCBI should be free to use. 
+

@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts_by_year/
+  - title: "In Vitro"
+    url: /vitro/
+  - title: "In Situ"
+    url: /situ/
+  - title: "In Silico"
+    url: /silico/
+  - title: "Science for all"
+    url: /sciforall/
+  - title: "Links I like"
+    url: /links/
